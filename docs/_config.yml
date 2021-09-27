@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: 'https://rs-anderson.github.io/chuma/'
-baseurl: 'https://rs-anderson.github.io/chuma/'
+baseurl: ''
 title: 'Chuma'
 description: 'Financial Tools Chatbot for Informal Traders'
 permalink: pretty
