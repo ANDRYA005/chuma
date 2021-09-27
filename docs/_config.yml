@@ -21,8 +21,8 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://rs-anderson.github.io/chuma/'
-baseurl: ''
+url: 'https://rs-anderson.github.io/'
+baseurl: '/chuma/'
 title: 'Chuma'
 description: 'Financial Tools Chatbot for Informal Traders'
 permalink: pretty
