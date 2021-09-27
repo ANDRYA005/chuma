@@ -31,11 +31,11 @@ logo: "/assets/logos/chuma_logo.jpeg"
 # Header nav
 navigation_header:
 - title: Home
-  url: 
+  url: /
 - title: Demo
   url: /demo/
 
 # Footer nav
 navigation_footer:
-- title: Back to top
-  url: "#top"
+- title: Home
+  url: /
