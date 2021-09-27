@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: ''
-baseurl: '/chuma'
+baseurl: '/chuma/'
 title: 'Chuma'
 description: 'Financial Tools Chatbot for Informal Traders'
 permalink: pretty
@@ -31,7 +31,7 @@ logo: "/assets/logos/chuma_logo.jpeg"
 # Header nav
 navigation_header:
 - title: Home
-  url: /
+  url: 
 - title: Demo
   url: /demo/
 
