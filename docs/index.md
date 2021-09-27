@@ -1,6 +1,6 @@
 ---
 title: Financial Tools Chatbot for Informal Traders
-feature_image: "assets/images/chuma_banner.png"
+feature_image: "assets/images/banner.jpeg"
 feature_text: 
 ---
 
